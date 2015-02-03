@@ -5,6 +5,6 @@ This is my first git trial!!!!
 
 First line has been changed 
 
-Second line
+Second line has been changed 03.02.2015
 
 
