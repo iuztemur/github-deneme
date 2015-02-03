@@ -3,7 +3,7 @@ Hello World,
 
 This is my first git trial!!!!
 
-First line
+First line has been changed 
 
 Second line
 
